@@ -7,7 +7,7 @@ public class GitTest {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Git is fun but complicated yy");
+		System.out.println("Git is fun but complicated zz");
 	}
 
 }
